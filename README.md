@@ -1,1 +1,1 @@
-# scs-config-repo
+# scs-config-repo for CF Config Server
